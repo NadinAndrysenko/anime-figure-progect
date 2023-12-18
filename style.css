@@ -1,0 +1,59 @@
+.logo {
+display: flex;
+margin-left: auto;
+margin-right: auto;
+margin-bottom: 44px;
+}
+
+.border {
+    border-bottom: solid 0.5px #3C49BD;
+    margin-bottom: 27px;
+    margin-top: 17px;
+}
+
+.background { 
+    background-color: black;
+}
+
+.menu-list {
+    display: flex;
+    gap: 100px;
+    justify-content: center;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: normal;
+}
+
+.banner {
+    display: flex;
+    margin: auto;
+}
+
+.top-sales-list {
+    display: flex;
+    gap: 79px;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.top-text {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: normal;
+    padding-top: 93px;
+    margin-bottom: 87px;
+}
+
+.top-list {
+    background-color: #0A0A0A;
+    border-radius: 50px;
+    width: 360px;
+height: 486px;
+flex-shrink: 0;
+}
