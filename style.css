@@ -57,3 +57,23 @@ line-height: normal;
 height: 486px;
 flex-shrink: 0;
 }
+
+.button-arrow {
+    background-color: black;
+    display: flex;
+    margin: auto;
+    margin-bottom: 22px;
+    mar
+}
+
+.entire-catalog {
+    color: #FFF;
+text-align: center;
+font-family: Roboto;
+font-size: 24px;
+font-style: normal;
+font-weight: 300;
+line-height: normal;
+margin: auto;
+padding-bottom: 132px;
+}
